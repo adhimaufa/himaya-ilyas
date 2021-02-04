@@ -86,7 +86,6 @@ function showSlides() {
   setTimeout(showSlides, 3500); // Change image every 2 seconds
 }
 
-//firebase realtime database
 var firebaseConfig = {
   apiKey: "AIzaSyAcRO57X8UNRAZ0rLhGjYk2ttXX95VtI84",
   authDomain: "comments-7198f.firebaseapp.com",
