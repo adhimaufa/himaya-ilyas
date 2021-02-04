@@ -459,7 +459,7 @@ h4{
 
 .resepsi a:hover,
 .akad a:hover{
-    padding: 0px 290px;
+    /* padding: 0px 290px; */
     background-color: var(--coklat);
     color: white;
 }
