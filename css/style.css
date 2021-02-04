@@ -663,6 +663,7 @@ h4{
     font-family: 'Great Vibes', cursive;
     letter-spacing: 5px;
     font-weight: lighter;
+    color: white;
 }
 
 .box p{
@@ -1123,6 +1124,11 @@ h4{
 
     #habis.aktif{
         font-size: 20px;
+    }
+
+    .ucapan-hadiah h1{
+        font-size: 35px !important;
+        /* padding: 30px; */
     }
 
     .ucapan-hadiah p{
