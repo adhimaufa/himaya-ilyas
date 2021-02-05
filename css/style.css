@@ -607,7 +607,8 @@ h4{
     font-size: 18px;
     font-weight: lighter;
     padding: 10px;
-    color: var(--coklat);
+    color: var(--coklat) !important;
+    color: #917252;
 }
 
 
