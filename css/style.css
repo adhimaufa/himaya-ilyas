@@ -774,11 +774,11 @@ h4{
     display: block;
     overflow: auto;
     overflow-x: hidden;
-  }
+}
 
   .task_container{
     background-color:transparent;
-    width: 100% !important;
+    width: 97% !important;
     margin-bottom: 20px;
   }
 
@@ -798,8 +798,9 @@ h4{
     font-size:19px;
     width:100%;
     text-align: left;
-    padding: 0;
+    padding: 0px;
   }
+
 
   #task_date{
     text-align: left;
